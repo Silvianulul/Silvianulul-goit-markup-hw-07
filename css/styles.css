@@ -159,7 +159,7 @@ img {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/background-hero.jpg);
-  max-width: 1440px;
+  width: 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
