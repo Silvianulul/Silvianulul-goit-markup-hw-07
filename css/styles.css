@@ -1479,10 +1479,10 @@ input:checked + .modal-label-checkbox span:first-child {
   }
 }
 
-@media (min-width: 769px) and (max-width: 1148px) {
+@media (min-width: 769px) and (max-width: 1158px) {
   /* FOOTER */
   .foooter-bg {
-    width: 1148px;
+    width: 1158px;
     text-align: center;
   }
 
@@ -1493,7 +1493,7 @@ input:checked + .modal-label-checkbox span:first-child {
   }
 
   .container {
-    width: 1148px;
+    width: 1158px;
   }
   .footer-subscribe-p {
     display: flex;
