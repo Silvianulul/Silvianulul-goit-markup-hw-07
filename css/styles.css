@@ -1489,8 +1489,12 @@ input:checked + .modal-label-checkbox span:first-child {
   .hero-page {
     width: 1148px;
     text-align: center;
+    margin: 0;
   }
 
+  .container {
+    width: 1148px;
+  }
   .footer-subscribe-p {
     display: flex;
   }
