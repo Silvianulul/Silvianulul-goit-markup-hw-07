@@ -1482,13 +1482,28 @@ input:checked + .modal-label-checkbox span:first-child {
 @media (min-width: 769px) and (max-width: 1148px) {
   /* FOOTER */
   .foooter-bg {
-    display: flex;
-    width: 100%;
-    margin: 0;
+    width: 1148px;
+    text-align: center;
   }
 
   .hero-page {
-    width: 100%;
-    margin: 0 auto;
+    width: 1148px;
+    text-align: center;
+  }
+
+  .footer-subscribe-p {
+    display: flex;
+  }
+
+  .social-media-text {
+    display: flex;
+  }
+
+  .logo-link {
+    display: flex;
+  }
+
+  .footer-text {
+    display: flex;
   }
 }
