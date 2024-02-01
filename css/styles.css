@@ -1478,3 +1478,10 @@ input:checked + .modal-label-checkbox span:first-child {
     max-width: 428px;
   }
 }
+
+@media screen and (769px <= width <= 1148px) {
+  /* ALL */
+  .container {
+    width: auto;
+  }
+}
